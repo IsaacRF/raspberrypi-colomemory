@@ -7,7 +7,7 @@ A simple physical memory game based on colors and sounds, assembled using a Rasp
 [raspberrypi-colomemory-demo.webm](https://user-images.githubusercontent.com/2803925/236621878-92afc495-3c88-4fa1-83a0-aaeb9c8d0795.webm)
 
 ## Circuit scheme
--- WIP --
+<img src="https://user-images.githubusercontent.com/2803925/236652060-5f385bad-3b5a-4bfc-bb24-61a2717e5a3b.png" height="800">
 
 ## Raspbery PI GPIO pinout scheme
 ![GPIO-Pinout-Diagram-2](https://user-images.githubusercontent.com/2803925/236616540-ef1bad40-610e-4672-b192-702ddd0ffaab.png)
